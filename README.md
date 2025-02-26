@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssromulo
 - 👀 I’m interested in programming, english language and everything of technologies that makes the world a better place.
-- 🌱 I’m currently learning Python and Kotlin.
+- 🌱 I’m currently learning Ruby and Kotlin.
 - 💞️ I’m looking to collaborate on projects to develop myself and contribute to other people on the learning.
 - 📫 How to reach me: linkedin.com/ssromulo or in this GitHub profile.
 
